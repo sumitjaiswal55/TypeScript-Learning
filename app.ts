@@ -25,3 +25,63 @@
 // UserRoles.SUPER_ADMIN;
 
 
+// Interfaces and type aliases
+// interface User {
+//     name: string,
+//     age: number
+// }
+
+// function getUser(obj: User){
+// }
+
+// getUser({name: "Sumti", age: 12});
+
+
+//Extended Interfaces
+// interface User {
+//     name: string,
+//     age: number
+// }
+
+// interface Admin extends User {
+//     admin: boolean
+// };
+
+// function getUser(obj: Admin){
+// }
+
+// getUser({name: "Sumti", age: 12, admin: true});
+
+
+// Type aliases
+
+// type value  = number | string | boolean;
+
+// let a: value;
+// a= 12;
+
+
+// Classes and Objects
+
+// class BottelMaker{
+//     constructor (public name:  String, public price: number) {
+
+//     }
+// }
+
+// let bottel1 = new BottelMaker("Milton", 1200)
+
+
+
+// Access Modifiers 
+
+// class BottelMaker {
+//     constructor (public name: string, public price: number){
+
+//     }
+// }
+
+// let b1 = new BottelMaker("Cello", 1200);
+// b1.name= "Milton"
+
+
