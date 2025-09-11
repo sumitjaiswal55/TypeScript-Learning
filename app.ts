@@ -82,6 +82,16 @@
 // }
 
 // let b1 = new BottelMaker("Cello", 1200);
-// b1.name= "Milton"
+// b1.name= "Milton" 
 
 
+// Access Modifiers 
+
+// class BottelMaker {
+//     constructor (public name: string, public price: number){
+
+//     }
+// }
+
+// let b1 = new BottelMaker("Cello", 1200);
+// b1.name= "Milton" 
